@@ -88,14 +88,5 @@
 * Unit testing and error logging improvements.
 * Docker support for easier deployment.
 
----
-
-### 🤝 Contributions
-
-Contributions are welcome! Feel free to fork the repo, submit pull requests, or suggest enhancements via issues.
-
----
-
-### 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+### OUTPUT:
+![Image](https://github.com/user-attachments/assets/c480a926-463a-49bd-8cbf-49c30ef34879)
